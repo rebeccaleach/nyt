@@ -1,0 +1,35 @@
+header {
+	padding: 2em;
+	padding-bottom: 200px;
+	background-color: #3a868c;
+	color: white;
+	font-family: 'Poppins', sans-serif;
+}
+
+select {
+	width: 100%;
+}
+
+.input-group {
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+
+
+.search {
+	margin-top: 30px;
+	margin-bottom: 30px;
+	border: solid 1px gray;
+}
+
+.search h3 {
+	margin-top: 0;
+	padding: 10px;
+	background-color: lightgray;
+	border-bottom: solid 1px gray;
+}
+
+.searchResults {
+	padding: 30px;
+}
